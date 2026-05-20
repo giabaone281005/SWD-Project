@@ -1,0 +1,20 @@
+# Boarding House Management Documentation Index
+
+## Documentation Files
+- [Tech Stack](./tech-stack.md)
+- [Database Tables](./database-tables.md)
+- [Database Schema](./database-schema.md)
+- [User Flows](./user-flows.md)
+- [Data Flow](./data-workflow.md)
+- [Work Flow](./workflow.md)
+- [Architecture](./architecture.md)
+- [API Overview](./api-overview.md)
+- [API Endpoints](./api-endpoints.md)
+- [Use Cases](./use-cases.md)
+- [Frontend Overview](./frontend-overview.md)
+- [Deployment](./deployment.md)
+- [Business Rules](./business-rules.md)
+- [Generate Bill Use Case](./use-case-generate-bill.md)
+- [Diagrams](./diagrams.md)
+- [Suggested Project Structure](./suggested-project-structure.md)
+- [AI Usage Declaration](./ai-usage-declaration.md)
